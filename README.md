@@ -1,7 +1,7 @@
 # Research Paper Finder - Setup Guide
 
 <h2>👇🏼👇🏼👇🏼👇🏼👇🏼<br>
-🌐LIVE ON : https://researchpaperfinder.streamlit.app</h2>
+🌐LIVE ON : https://research-paperfinder.streamlit.app</h2>
 <br><br><hr>
 
 <img width="1873" height="1025" alt="image" src="https://github.com/user-attachments/assets/db3e8e73-083a-456d-a869-e54dc7624135" />
